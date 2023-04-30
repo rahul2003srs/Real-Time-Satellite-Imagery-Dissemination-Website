@@ -1,0 +1,2 @@
+# Real-Time-Satellite-Imagery-Dissemination-Website
+This project consists of a combination of APIs by which the user is able to visualize the data  by using various tools like excel, python and R. The user can also get the data to include  image file, image data, and image metadata for a particular day or date. From that date the  user has the data in the form of image and detail about the image. 
